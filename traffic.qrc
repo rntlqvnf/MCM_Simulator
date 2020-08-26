@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/trafficLight">
+        <file>traffic/0.png</file>
+        <file>traffic/1.png</file>
+        <file>traffic/2.png</file>
+        <file>traffic/info.png</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>audio/beep_high.wav</file>
+        <file>audio/beep_low.wav</file>
+    </qresource>
+    <qresource prefix="/help">
+        <file>utility/MCM_Manual.pdf</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/save.png</file>
+        <file>icon/open.png</file>
+        <file>icon/pause.png</file>
+        <file>icon/run.png</file>
+        <file>icon/clear.png</file>
+        <file>icon/past.png</file>
+        <file>icon/V.png</file>
+        <file>icon/W.png</file>
+        <file>icon/setting.png</file>
+        <file>icon/slider.png</file>
+        <file>icon/sound.png</file>
+        <file>icon/slider_3.png</file>
+        <file>icon/visible.png</file>
+    </qresource>
+</RCC>
